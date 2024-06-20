@@ -3,9 +3,9 @@
 // @version      1.1
 // @namespace    Violentmonkey Scripts
 // @author       none
-// @match        none
+// @match        https://telegram.blum.codes/*
 // @grant        none
-// @icon         none
+// @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
 // @downloadURL  https://github.com/coobber/blum/raw/main/blum-autoclicker.user.js
 // @updateURL    https://github.com/coobber/blum/raw/main/blum-autoclicker.user.js
 // @homepage     https://github.com/coobber/blum
